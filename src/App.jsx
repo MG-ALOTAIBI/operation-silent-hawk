@@ -146,7 +146,7 @@ export default function App() {
             </div>
             <div>
               <span>Takeoff</span>
-              <strong>16:00L</strong>
+              <strong>17:30L</strong>
             </div>
             <div>
               <span>Theater</span>
