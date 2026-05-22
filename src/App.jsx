@@ -165,7 +165,7 @@ export default function App() {
       <main className="main-container">
         <section className="overview-grid">
           <div className="panel large-panel">
-            <p className="section-label">MISSION OVERVIEW</p>
+            <p className="section-label">MISSION OVERVIEW // نظرة عامة</p>
             <h2>Strategic retaliation before a second missile wave.</h2>
             <p>
               Following coordinated missile and drone attacks against GCC nations and
@@ -291,7 +291,7 @@ export default function App() {
         <section id="apply" className="application-section">
           <div className="panel application-panel">
             <div>
-              <p className="section-label">MISSION APPLICATION</p>
+              <p className="section-label">MISSION APPLICATION // طلب المشاركة</p>
               <h2>Apply for Operation Silent Hawk</h2>
               <p>
                 Applications are reviewed by the mission organizer before final slot
@@ -377,6 +377,7 @@ export default function App() {
             <p>
               Mission organizer: <b>MG</b>. For questions, role changes, or final
               confirmation, contact <b>MG</b> inside the Red Hawks Discord server.
+              للاستفسار أو تعديل دورك في المهمة، تواصل مع MG داخل سيرفر Red Hawks.
             </p>
           </div>
           <a href="https://discord.gg/fFYWeT2k" target="_blank" rel="noreferrer">
