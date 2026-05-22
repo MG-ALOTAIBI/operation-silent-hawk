@@ -377,8 +377,8 @@ export default function App() {
             <p>
               Mission organizer: <b>MG</b>. For questions, role changes, or final
               confirmation, contact <b>MG</b> inside the Red Hawks Discord server.
-             مشرف المهمه <b>MG</b>
-             للاستفسار او التعديل يرجى التواصل مع مشرف المهمه المذكور اسمه في الاعلى سيرفر ريدهوكس على الديسكورد
+             مشرف المهمه. <b>MG</b>
+             للاستفسار او التعديل يرجى التواصل مع مشرف المهمه المذكور اسمه في الاعلى سيرفر ريدهوكس على الديسكورد.
             </p>
           </div>
           <a href="https://discord.gg/fFYWeT2k" target="_blank" rel="noreferrer">
