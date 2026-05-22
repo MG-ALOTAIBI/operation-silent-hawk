@@ -376,7 +376,8 @@ export default function App() {
             <h2>Join the operation room.</h2>
             <p>
               Mission organizer: <b>MG</b>. For questions, role changes, or final
-              confirmation, contact <b>MG</b> inside the Red Hawks Discord server .
+              confirmation, contact <b>MG</b> inside the Red Hawks Discord server.
+            </p>
           </div>
           <a href="https://discord.gg/fFYWeT2k" target="_blank" rel="noreferrer">
             Join Discord
