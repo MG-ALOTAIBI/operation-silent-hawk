@@ -135,9 +135,7 @@ export default function App() {
         <div className="hero-content">
           <div className="operation-badge">عملية الصقر الصامت</div>
           <h1>OPERATION SILENT HAWK</h1>
-          <p className="hero-subtitle">
-            Modern WW3 coalition strike operation over the Persian Gulf.
-          </p>
+          
 
           <div className="hero-meta-grid">
             <div>
