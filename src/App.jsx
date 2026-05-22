@@ -318,7 +318,6 @@ export default function App() {
                 <option>HAWK // Kuwaiti F/A-18C</option>
                 <option>VIPER // Bahraini F-16C</option>
                 <option>WOLF // UAE F-16C</option>
-                <option>F-15 // Air Superiority</option>
               </select>
               <select
                 value={form.backup}
@@ -328,7 +327,6 @@ export default function App() {
                 <option>HAWK // Kuwaiti F/A-18C</option>
                 <option>VIPER // Bahraini F-16C</option>
                 <option>WOLF // UAE F-16C</option>
-                <option>F-15 // Air Superiority</option>
               </select>
               <input
                 placeholder="Experience level / aircraft experience"
