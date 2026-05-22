@@ -143,7 +143,7 @@ export default function App() {
               <strong>26 FEB 2026</strong>
             </div>
             <div>
-              <span>Takeoff</span>
+              <span>MISSION START</span>
               <strong>17:30L</strong>
             </div>
             <div>
